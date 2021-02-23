@@ -1,12 +1,3 @@
--- DE Interview script - sample data
-
--- URL for online editor
--- https://sqliteonline.com/
--- choose Postgres engine and connect
-
--- set up script ----------------------------------------------------
----------------------------------------------------------------------
-
 --  User (dim)
 DROP TABLE IF EXISTS dim_User;
 CREATE TABLE dim_User
