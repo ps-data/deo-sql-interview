@@ -9,5 +9,5 @@
 ## Entity Relationship Diagram
 
 
-[ERD](https://lucid.app/publicSegments/view/b66aaa89-0c1f-4b9d-ab94-0bc7df4a215f/image.jpeg)
+[![Lucid Chart](https://lucid.app/publicSegments/view/b66aaa89-0c1f-4b9d-ab94-0bc7df4a215f/image.jpeg "ERD")](https://lucid.app/publicSegments/view/b66aaa89-0c1f-4b9d-ab94-0bc7df4a215f/image.jpeg)
 
