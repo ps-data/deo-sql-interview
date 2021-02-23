@@ -8,6 +8,6 @@
 
 ## Entity Relationship Diagram
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/f5375234-cf44-45bf-a45b-be94a652e9fc" id="CUie6_9hdi3P"></iframe></div>
-[Lucid](https://lucid.app/documents/view/f5375234-cf44-45bf-a45b-be94a652e9fc)
+
+[ERD](https://lucid.app/publicSegments/view/1995d168-c642-40ff-8ff0-0b899e8a23f0/image.jpeg)
 
