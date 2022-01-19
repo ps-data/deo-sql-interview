@@ -1,6 +1,7 @@
 {
-   "version":1,
-   "team":"deo",
-   "slack-channel":"#data-eng-ops",
+   "version":2,
+   "team":"data-eng",
+   "team-type":"github",
+   "slack-channel":”#data-services",
    "in-use":true
 }
