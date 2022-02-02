@@ -2,6 +2,6 @@
    "version":2,
    "team":"data-eng",
    "team-type":"github",
-   "slack-channel":”#data-services",
+   "slack-channel":"#data-services",
    "in-use":true
 }
