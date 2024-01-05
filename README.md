@@ -5,6 +5,7 @@
 *   Navigate to [SQLite Online](https://sqliteonline.com/)
 *   Select Postgres in the left rail.
 *   Run the scripts in this repository `DE_inteview_script.sql` in the console.
+*   Complete the interview questions listed in the `README`.
 
 ## Entity Relationship Diagram
 
