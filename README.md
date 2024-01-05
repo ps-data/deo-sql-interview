@@ -50,6 +50,6 @@
 
 3. **How would you return all days of January 2020 with the viewtime and distinct user count for each (if any)?**
 
-4. **Bonus points: How many views were for 90% of the actual duration of the clip (meaning the user watched all or almost all of the clip)?**
+- **Bonus points: How many views were for 90% of the actual duration of the clip (meaning the user watched all or almost all of the clip)?**
 
-5. **Which users viewed courses in at least 2 consecutive months?**
+4. **Which users viewed courses in at least 2 consecutive months?**
